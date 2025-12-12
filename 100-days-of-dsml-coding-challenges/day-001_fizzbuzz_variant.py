@@ -1,13 +1,8 @@
 '''Write a function fizzbuzz_variant(n) that returns a list of strings for numbers 1..n where:
-
 multiples of 3 → "Fizz"
-
 multiples of 5 → "Buzz"
-
 multiples of both 3 and 5 → "FizzBuzz"
-
 primes → "Prime" (if a number is prime, print "Prime" instead of other tags)
-
 otherwise the number as string
 '''
 
