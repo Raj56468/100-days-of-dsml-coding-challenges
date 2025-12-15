@@ -3,9 +3,11 @@ def is_unique(s: str) -> bool:
     Check if all characters in the string are unique.
 
     Args:
+
     s (str): The input string to check.
 
     Returns:
+
     bool: True if all characters are unique, False otherwise.
     """
     char_set = set()
@@ -20,9 +22,11 @@ def first_repeated_character(s: str) -> str:
     Find the first repeated character in the string.
 
     Args:
+
     s (str): The input string to check.
 
     Returns:
+
     str: The first repeated character, or an empty string if none found.
     """
     char_set = set()
@@ -37,9 +41,11 @@ def unique_count(s: str) -> int:
     Count the number of unique characters in the string.
 
     Args:
+
     s (str): The input string to check.
 
     Returns:
+    
     int: The count of unique characters.
     """
     return len(set(s))
