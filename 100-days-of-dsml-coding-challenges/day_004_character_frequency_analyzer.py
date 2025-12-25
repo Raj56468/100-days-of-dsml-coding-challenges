@@ -1,7 +1,7 @@
-#character frequency analyzer
+#character frequency analyzer-------
 
 
-ef character_frequency_analyzer(input_string):
+def character_frequency_analyzer(input_string):
     frequency = {}
     for char in input_string:
         if char in frequency:
