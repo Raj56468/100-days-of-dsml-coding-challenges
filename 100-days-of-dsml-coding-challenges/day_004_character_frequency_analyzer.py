@@ -1,4 +1,4 @@
-#character frequency analyzer-------
+#character frequency analyzer------
 
 
 def character_frequency_analyzer(input_string):
